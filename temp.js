@@ -1,0 +1,1 @@
+const variable = "this is a temp file variable"
