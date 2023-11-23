@@ -1,1 +1,1 @@
-const variable = "this is a temp file variable"
+const variable = "this is a temp file variable changed in local"
